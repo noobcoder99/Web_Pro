@@ -1,0 +1,6 @@
+//
+https://stackoverflow.com/questions/3327312/drop-all-tables-in-postgresql
+//
+delete all tables , data
+//
+DROP SCHEMA public CASCADE;
